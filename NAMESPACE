@@ -1,0 +1,3 @@
+useDynLib(longBayes)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
